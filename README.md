@@ -11,7 +11,7 @@ Este proyecto proporciona ejemplos de cómo cargar y descargar archivos con Spri
    
 
 
-## Cómo utilizar el proyecto
+## Configuración del Entorno y Prerrequisitos
 
 1. Clonación del repositorio
 ```bash
